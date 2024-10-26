@@ -1,0 +1,6 @@
+Car ID,Brand,Year,Engine Size,Fuel Type,Transmission,Mileage,Condition,Model,Predicted Car Price,Upper Bound of Confidence Interval,Time Taken to Predict,Prediction Graph,timestamp
+1,,2016,2.3,Petrol,Manual,114832,New,Model X,,48239.0625,,,2024-10-21 15:22:13.513950
+1,,2016,2.3,Petrol,Manual,114832,New,Model X,,48239.0625,,,2024-10-21 15:22:15.255792
+5,,,,,,,,,"Prediction error: 400 {""error"": ""Column: YEAR. Error: Null values are not allowed in transformations.""}",,,,2024-10-23 15:15:41.292621
+5,,,,,,,,,"Prediction error: 400 {""error"": ""Column: YEAR. Error: Null values are not allowed in transformations.""}",,,,2024-10-23 15:15:42.120716
+5,,,,,,,,,"Prediction error: 400 {""error"": ""Column: YEAR. Error: Null values are not allowed in transformations.""}",,,,2024-10-23 15:15:43.078971
